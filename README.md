@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andris888
 - 👀 I’m interested in bioinformatics, data science, environmental microbiology
-- 🌱 I’m currently learning python, R, arduino, raspberry pi
+
 
 
 <!---
